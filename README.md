@@ -36,7 +36,7 @@ Nesse projeto o intuito é praticar o React Native com TypeScript, utilizando ro
 
 O foco do projeto é o desenvolvimento da aplicação mobile então não foi construída uma API real para prover informações para esse projeto.
 
-Contudo, para que tivéssemos dados para exibir em tela, foi disponibilizado um arquivo que será que servirá como uma fake API para dados.
+Contudo, para que tivéssemos dados para exibir em tela, foi disponibilizado um arquivo json que servirá como uma fake API para prover os dados.
 
 Para isso, foi instalado no package.json uma dependência chamada `json-server`, e um arquivo chamado `server.json` que contém os dados para uma rota `/products`.
 
